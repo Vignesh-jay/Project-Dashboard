@@ -679,7 +679,7 @@ p.para-text-w3ls{
 /*-- inner banner --*/
 
 .inner-banner {
-    background: url(../images/banner.jpg)no-repeat 0px 0px;
+    background: url(../images/banner2.jpg)no-repeat 0px 0px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -866,7 +866,7 @@ button.btn1 {
 /*-- clients --*/
 .clients {
     background: #333;
-    background: url(../images/banner.jpg) no-repeat 0px 0px;
+    background: url(../images/banner2.jpg) no-repeat 0px 0px;
     background-size: cover;
 }
 .clients h2.heading, .middlesection-w3pvt h3.heading{
